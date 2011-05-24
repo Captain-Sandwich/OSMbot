@@ -95,6 +95,9 @@ gPats = [
     "Is this something you would ask him to his face?",
     "I would be careful what you say about PipeManMusic.",
     "He has OPs in this channel so don't make him angry."]],
+  
+  [r'(.*)Cptn_Sandwich(.*)\\?',
+  [ "He's a newbie, but if no one else is around ask him."]],
 
   [r'(.*)holstein(.*)\\?',
   [ "He's a tour de force on the big bad bass!",
